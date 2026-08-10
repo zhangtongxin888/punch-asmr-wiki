@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://punchasmr.wiki
+Sitemap: https://punchasmr.wiki/sitemap.xml
