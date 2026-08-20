@@ -1,0 +1,51 @@
+// adsterra-code-handoff:artifact-config
+// Domain: punchasmr.wiki
+export const adsterraConfig = {
+  "adsterraNeedsGlobalFallback": 1,
+  "adsterraEligiblePaths": [
+    "/",
+    "/beginner-guide",
+    "/beginner-guide.html",
+    "/common-mistakes",
+    "/common-mistakes.html",
+    "/core-loop",
+    "/core-loop.html",
+    "/faq",
+    "/faq.html",
+    "/index.html",
+    "/progression",
+    "/progression.html"
+  ],
+  "adsterraExcludedPaths": [
+    "/404",
+    "/404.html",
+    "/_not-found",
+    "/_not-found.html",
+    "/sources",
+    "/sources.html"
+  ],
+  "adsterraBannerId": "34116c52a0a70cc2f3e81943e7737729",
+  "adsterraBanner300x250Key": "34116c52a0a70cc2f3e81943e7737729",
+  "adsterraBanner300x250ScriptUrl": "https://www.highperformanceformat.com/34116c52a0a70cc2f3e81943e7737729/invoke.js",
+  "adsterraBanner320x50Key": "49e7245e03ae3f42c493320b16eb843d",
+  "adsterraBanner320x50ScriptUrl": "https://www.highperformanceformat.com/49e7245e03ae3f42c493320b16eb843d/invoke.js",
+  "adsterraBanner728x90Key": "c39024461568f3cf9f9cbc0b8d0cb24e",
+  "adsterraBanner728x90ScriptUrl": "https://www.highperformanceformat.com/c39024461568f3cf9f9cbc0b8d0cb24e/invoke.js",
+  "adsterraBanner468x60Key": "02e5491af97a158d38a44ccc74bb3a04",
+  "adsterraBanner468x60ScriptUrl": "https://www.highperformanceformat.com/02e5491af97a158d38a44ccc74bb3a04/invoke.js",
+  "adsterraBanner160x300Key": "a621504dcd6d46e454d614a568f22c97",
+  "adsterraBanner160x300ScriptUrl": "https://www.highperformanceformat.com/a621504dcd6d46e454d614a568f22c97/invoke.js",
+  "adsterraBanner160x600Key": "7fb6e669c6954e31084d97b754b16537",
+  "adsterraBanner160x600ScriptUrl": "https://www.highperformanceformat.com/7fb6e669c6954e31084d97b754b16537/invoke.js",
+  "adsterraNative1Id": "container-59e3d7bfac41f5c5918cc22725018d10",
+  "adsterraNative1ScriptUrl": "https://pl30932241.effectivecpmnetwork.com/59e3d7bfac41f5c5918cc22725018d10/invoke.js",
+  "adsterraSmartLinkUrl": "https://www.effectivecpmnetwork.com/ei5a5cvg?key=d69b6d84fcce20b51e149d1c6b63eccf",
+  "adsterraPopunderScriptUrl": "https://pl30932238.effectivecpmnetwork.com/0c/42/07/0c4207ae6643845cb96ebc8cc37e2b78.js",
+  "adsterraSocialBarScriptUrl": "https://pl30932240.effectivecpmnetwork.com/eb/0a/f3/eb0af3b9d6a6a0dccd64337282e1c55e.js",
+  "adsterraLeaderboardId": "c39024461568f3cf9f9cbc0b8d0cb24e",
+  "adsterraEnablePopunder": false,
+  "adsterraEnableSocialBar": false,
+  "adsterraEnableStickyRail": false,
+  "adsterraPopunderDelayMs": 30000,
+  "adsterraPopunderMinPageViews": 2
+};
